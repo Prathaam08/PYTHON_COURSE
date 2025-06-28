@@ -6,7 +6,7 @@ s2 = string.ascii_lowercase
 s3 = string.digits
 s4 = string.punctuation
 
-password = int(input("Enter the length of password: "))
+passwordLen = int(input("Enter the length of password: "))
 
 s = []
 
@@ -16,4 +16,4 @@ s.extend(list(s3))
 s.extend(list(s4))
 
 random.shuffle(s)
-print("".join(s[0:password]))
+print("".join(s[0:passwordLen]))
