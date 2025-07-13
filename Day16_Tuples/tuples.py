@@ -1,4 +1,4 @@
-# Tuples are immutable means we dont change it 
+# Tuples are immutable means we cannot change it 
 
 tup = ( 0, 15 , 55)
 print(type(tup), tup )

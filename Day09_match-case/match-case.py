@@ -6,9 +6,9 @@ match x:
     case 18:
         print("You can drive")
     case 60:
-        print("you sre senior citizen")
+        print("you are senior citizen")
     case _:
-        print("Inavlid input"
+        print("Invalid input"
         )
 
 

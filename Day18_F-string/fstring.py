@@ -7,6 +7,6 @@ print( f"My name is {name} and am from {origin}")
 # if you want to print only 2 decimal number
 print(f"He has {money:.2f} in the bank")
 
-# If you want to print as it then use doyble curly braces
+# If you want to print as it then use double curly braces
 print( f"My name is {{name}} and am from {{origin}}")
 

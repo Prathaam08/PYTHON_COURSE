@@ -12,5 +12,4 @@ else:
     print("Loop done")
 
 
-#36
 
